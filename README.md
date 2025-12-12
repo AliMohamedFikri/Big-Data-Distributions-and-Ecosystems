@@ -67,4 +67,4 @@ After reviewing this presentation, you will understand:
 - **Mahmoud Walid** — [GitHub Profile](https://github.com/Mahmou2waleed)  
 - **Mahmoud Suleiman**  
 - **Mohamed Ayman**  
-- **Ali Mohamed  — [GitHub Profile](https://github.com/AliMohamedFikri)  
+- **Ali Mohamed ** — [GitHub Profile](https://github.com/AliMohamedFikri)  
